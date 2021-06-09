@@ -10,4 +10,4 @@ or
 
 step2:website hosted on netlify You can host you site in https://app.netlify.com/
 
-Once i hosted i can access the site through https://sincyjosephportflio.netlify.app/
+Once i hosted i can access the site through https://sincyjosephportfolio.netlify.app/
