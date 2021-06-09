@@ -2,7 +2,7 @@
 
 Freehosting
 
-step1: Website hosted on github Your site is ready to be published at https://sincyjoseph.github.io/my_portfolio/
+step1: Website hosted on github Your site is ready to be published at https://sincyjoseph.github.io/sincy_joseph_portfolio/
 
 Reference: https://medium.com/@aaysbt/create-portfolio-website-and-host-at-github-io-279f46f51f32
 
